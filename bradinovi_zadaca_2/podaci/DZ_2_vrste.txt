@@ -1,0 +1,10 @@
+id; vrsta emisije;može imati reklame (0 - ne, 1 - da);maks trajanje reklama (min)
+1; informativna;0;0
+2; dokumentarna;0;0
+3; film;1;5
+4; serija;1;3
+5; zabava;1;10
+6; sport;1;5
+7; kviz;1;3
+8; animirani film;0;0
+9; mozaik;1;10

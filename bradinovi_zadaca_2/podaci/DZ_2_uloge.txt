@@ -1,0 +1,8 @@
+id; opis uloge
+1; urednik programa
+2; urednik emisije
+3; voditelj
+4; novinar
+5; prevoditelj
+6; gost
+7: pogreška

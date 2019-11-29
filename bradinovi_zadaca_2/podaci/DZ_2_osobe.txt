@@ -1,0 +1,32 @@
+id; ime i prezime
+1; Đelo Hađiselimović
+2; Mirko Fodor
+3; Zoran Šprajc
+4; Tomislav Štengl
+5; Katarina Periša Čakarun
+6; Bruno Kovačević
+7; Marija Miholjek
+8; Ivana Paradžiković
+9; Aleksandar Stanković
+10; Saša Kopljar
+11; Mislava Bago
+12; Romina Knežić
+13; Sanja Doležal
+14; Tarik Filipović
+15; Marijana Batinić
+16; Danijela Bosnar
+17; Ana Ugarković
+18; Davor Meštrović
+19; Rene Bakalović
+20; Zrinka Jankov
+21; Pero Kos
+22; Ivo Medved
+23; Mato Vrana
+24; Luka Bivol
+25; Mira Zec
+26; Franka Mravac
+27; Helena Lisac
+28; Alica Kokot
+29; Petra Vrabec
+30; Tanja Vuk
+31;

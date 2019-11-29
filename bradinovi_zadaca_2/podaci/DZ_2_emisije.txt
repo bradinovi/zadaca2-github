@@ -1,0 +1,32 @@
+id; naziv emisije;vrsta emisije;trajanje (min);osoba-uloga,osoba-uloga,...
+1; Dnevnik;1;45;10-2,10-3
+2; Dobro jutro, Hrvatska;9;180;18-2
+3; TV kalendar;2;20;
+4; Žrtve ljubavi;4;30;
+5; Život na vagi;5;50;
+6; Teorija velikog praska;4;30;
+7; NCIS;4;50;
+8; Moderna obitelj;4;30;
+9; RTL Danas;1;60;3-2,3-3
+10; Dva i pol muškarca;4;30;
+11; Mentalist;4;45;
+12; Kod Ane;5;30;17-3
+13; Mala, velika panda;3;88;
+14; Kralj majmuna;3;100;
+15; Večera za 5;5;30;
+16; Tko želi biti milijunaš;7;55; 14-3
+17; Nedjeljom u dva;5;60; 9-2, 9-3
+18; More;2;35;21-2
+19; Zgodna žena;3;75;21-2
+20; Inspektor Rex;4;55;21-2
+21; Indeks;1;30;21-2
+22; James Bond 007: Nikad ne reci nikad;3;135;21-2
+23; Fotografija u Hrvatskoj;2;10;21-2
+24; Magazin LP;6;25;21-2
+25; Oceanovih 12;3;125;21-2
+26; Volim Hrvatsku!;5;73;21-2
+27; Istrage zrakoplovnih nesreća;2;60;21-2
+28; Supertalent;5;135;21-2
+29; Exkluziv;1;45;21-2
+30; Graham Norton i gosti;5;57;21-2
+31; Pogreška u emisiji
